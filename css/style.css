@@ -43,3 +43,9 @@ footer li {
     margin: 7px;
     padding: 20px;
 }
+footer a {
+    color: white;
+}
+footer li:hover > a {
+    color: #7aba96;
+  }
