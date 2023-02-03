@@ -1,0 +1,10 @@
+header > nav {
+    border-top: 1px #8A8070 solid;
+    border-bottom: 1px black solid;
+}
+header > nav > li > a:hover {
+    color: #7ABA96;
+}
+body , li{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
