@@ -1,10 +1,45 @@
 header > nav {
-    border-top: 1px #8A8070 solid;
-    border-bottom: 1px black solid;
+  border-top: 1px #8a8070 solid;
+  border-bottom: 1px black solid;
 }
-header > nav > li > a:hover {
-    color: #7ABA96;
+header > div {
+    display: grid;
+    justify-content: center;
+    align-items: center;
 }
-body , li{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+img#logo {
+    width: 325px;
+}
+header > nav li:hover > a {
+  color: #7aba96;
+}
+header > nav ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+header > nav li {
+    display: inline-block;
+    margin: 5px;
+    padding: 5px;
+}
+body,
+li {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+footer {
+    width: 100%;
+    background-color: black;
+    color: white;
+}
+footer ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+footer li {
+    display: inline-block;
+    margin: 7px;
+    padding: 20px;
 }
