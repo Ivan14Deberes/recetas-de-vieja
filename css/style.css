@@ -20,9 +20,7 @@ img#logo {
     width: 325px;
 }
 
-header>nav li:hover>a {
-    color: #7aba96;
-}
+
 
 header>nav ul {
     display: flex;
@@ -168,13 +166,20 @@ footer a {
     color: white;
 }
 
-footer li:hover>a {
+
+/*Hovers*/
+
+main article a:hover h3 {
+    color: #8a8070;
+}
+
+header>nav li:hover>a {
     color: #7aba96;
 }
 
-
-
-
+footer li:hover>a {
+    color: #7aba96;
+}
 
 /*Tonterias del programador
 .sticky {
