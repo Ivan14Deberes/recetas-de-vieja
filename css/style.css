@@ -1,32 +1,39 @@
-header > nav {
-  border-top: 1px #8a8070 solid;
-  border-bottom: 1px black solid;
+header>nav {
+    border-top: 1px #8a8070 solid;
+    border-bottom: 1px black solid;
 }
-header > div {
+
+header>div {
     display: grid;
     justify-content: center;
     align-items: center;
 }
+
 img#logo {
     width: 325px;
 }
-header > nav li:hover > a {
-  color: #7aba96;
+
+header>nav li:hover>a {
+    color: #7aba96;
 }
-header > nav ul {
+
+header>nav ul {
     display: flex;
     justify-content: center;
     align-items: center;
 }
-header > nav li {
+
+header>nav li {
     display: inline-block;
     margin: 5px;
     padding: 5px;
 }
+
 body,
 li {
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
 main {
     flex-wrap: wrap;
     display: flex;
@@ -34,16 +41,60 @@ main {
     justify-content: center;
     align-items: center;
 }
+
 aside {
     width: 20%;
+
 }
+
+aside div#buttonLibro {
+    padding: 5px;
+    font-size: small;
+    font-weight: bold;
+    text-align: center;
+    background-color: #7aba96;
+}
+
+aside p,
+aside h2,
+aside a {
+    text-align: center;
+    width: 100%;
+    display: block;
+}
+
+aside div#aboutme p{
+    margin: 5px;
+    text-align: justify;
+    text-justify: inter-word;
+}
+
 aside img#foto {
-    width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
     border-radius: 50%;
+    padding: 10px;
 }
+
+aside div#divlibro {
+    padding: 15px;
+    background-color: gainsboro;
+}
+
+aside div#divlibro p {
+    margin: 5px;
+    color: grey;
+}
+
 aside img#libro {
-    width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
 }
+
 article {
     width: 60%;
 }
@@ -55,19 +106,23 @@ footer {
     background-color: black;
     color: white;
 }
+
 footer ul {
     display: flex;
     justify-content: center;
     align-items: center;
 }
+
 footer li {
     display: inline-block;
     margin: 7px;
     padding: 20px;
 }
+
 footer a {
     color: white;
 }
-footer li:hover > a {
+
+footer li:hover>a {
     color: #7aba96;
-  }
+}
