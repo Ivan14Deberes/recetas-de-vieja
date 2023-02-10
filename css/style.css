@@ -27,8 +27,30 @@ body,
 li {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+main {
+    flex-wrap: wrap;
+    display: flex;
+    margin-bottom: 70px;
+    justify-content: center;
+    align-items: center;
+}
+aside {
+    width: 20%;
+}
+aside img#foto {
+    width: 100%;
+    border-radius: 50%;
+}
+aside img#libro {
+    width: 100%;
+}
+article {
+    width: 60%;
+}
 
 footer {
+    position: fixed;
+    bottom: 0;
     width: 100%;
     background-color: black;
     color: white;
