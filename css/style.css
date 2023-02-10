@@ -64,7 +64,7 @@ aside a {
     display: block;
 }
 
-aside div#aboutme p{
+aside div#aboutme p {
     margin: 5px;
     text-align: justify;
     text-justify: inter-word;
@@ -103,18 +103,31 @@ main article {
     padding: 20px;
 }
 
-main article div{
+main article div {
     width: 50%;
 }
-main article > div > div {
+
+main article>div>div {
     width: 90%;
     margin: 10px;
+    
 }
 
-main article div > div > img{
+main article div>div>img {
     width: 100%;
 }
 
+main article div>div>div {
+    width: 100%;
+    border-bottom: 1px solid #7aba96;
+    border-top: 1px solid #7aba96;
+    margin: 5px;
+}
+main article div>div>div sub {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 footer {
     position: fixed;
     bottom: 0;
