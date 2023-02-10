@@ -6,10 +6,10 @@ header>nav {
 header>div {
     display: grid;
     justify-content: center;
-    align-items: center;
 }
 
 img#logo {
+    margin-top: 10px;
     width: 325px;
 }
 
@@ -20,7 +20,6 @@ header>nav li:hover>a {
 header>nav ul {
     display: flex;
     justify-content: center;
-    align-items: center;
 }
 
 header>nav li {
@@ -39,11 +38,10 @@ main {
     display: flex;
     margin-bottom: 70px;
     justify-content: center;
-    align-items: center;
 }
 
 aside {
-    width: 20%;
+    width: 15%;
     padding: 20px;
 
 }
@@ -55,7 +53,9 @@ aside div#buttonLibro {
     text-align: center;
     background-color: #7aba96;
 }
-
+aside p {
+    color: grey;
+}
 aside p,
 aside h2,
 aside a {
@@ -103,30 +103,37 @@ main article {
     padding: 20px;
 }
 
-main article div {
+main article > a {
     width: 50%;
+    margin-bottom: 50px;
 }
 
-main article>div>div {
+main article>a>div {
     width: 90%;
     margin: 10px;
 }
 
-main article div>div>img {
+main article >a>div>img {
     width: 100%;
 }
+main article > a > div > div > h3 {
+    text-align: center;
+    font-weight: bold;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
 
-main article div>div>div>div {
+main article>a>div>div>div {
     width: 100%;
     border-bottom: 1px solid #7aba96;
     border-top: 1px solid #7aba96;
     margin: 5px;
 }
-main article div>div>div>div sub {
+main article>a>div>div>div sub {
     display: flex;
     justify-content: center;
-    align-items: center;
 }
+
 footer {
     position: fixed;
     bottom: 0;
@@ -138,7 +145,6 @@ footer {
 footer ul {
     display: flex;
     justify-content: center;
-    align-items: center;
 }
 
 footer li {
