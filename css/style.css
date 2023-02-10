@@ -44,6 +44,7 @@ main {
 
 aside {
     width: 20%;
+    padding: 20px;
 
 }
 
@@ -95,8 +96,23 @@ aside img#libro {
     width: 60%;
 }
 
-article {
+main article {
+    display: flex;
+    flex-wrap: wrap;
     width: 60%;
+    padding: 20px;
+}
+
+main article div{
+    width: 50%;
+}
+main article > div > div {
+    width: 90%;
+    margin: 10px;
+}
+
+main article div > div > img{
+    width: 100%;
 }
 
 footer {
