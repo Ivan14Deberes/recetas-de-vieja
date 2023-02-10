@@ -132,8 +132,11 @@ main article>a>div>div>div {
 main article>a>div>div>div sub {
     display: flex;
     justify-content: center;
+    font-size: small;
 }
-
+main article>a>div span {
+    font-weight: bolder;
+}
 footer {
     position: fixed;
     bottom: 0;
