@@ -22,7 +22,9 @@ body main h1 {
     margin: 15px 0px 15px 0px;
     font-family: 'Mynerve', cursive;
 }
-
+body main img{
+    width: 50%;
+}
 body main ol p {
     padding-top: 15px;
     font-family: 'Mynerve', cursive;
