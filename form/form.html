@@ -7,7 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <link rel="stylesheet" href="../css/reset.css">
   <link rel="stylesheet" href="../css/style.css">
-  <link rel="stylesheet" href="../css/recepta.css">
+  <link rel="stylesheet" href="../css/form.css">
   <title>Recetas de la puta iaia</title>
   <style>
     @import url('https://fonts.googleapis.com/css2?family=Mynerve&display=swap');
@@ -17,38 +17,75 @@
 </head>
 
 <body>
-    <header>
-        <div>
-          <img id="logo" src="../img/logo_laputaiaia.png" />
-        </div>
-        <nav id="navbar">
-          <ul>
-            <li><a href="../index.html">INICIO</a></li>
-            <li><a href="#aboutme">SOBRE MÍ</a></li>
-            <li><a href="../receptes_list/recetas.html">RECETAS</a></li>
-            <li><a href="../contacto/contaco.html">CONTACTO</a></li>
-            <li><a href="../other/otras cosas.html">OTRAS COSAS</a></li>
-          </ul>
-        </nav>
-      </header>
-      <main>
-        <form action="" method="get">
-            
-        </form>
-      </main>
-      <footer id="footerR">
-        <ul>
-          <li><a href="https://www.facebook.com/groups/lagrasa2.1">FACEBOOK</a></li>
-          <li><a href="https://twitter.com/fzz_25/status/1623003074536112128">TWITTER</a></li>
-          <li><a href="https://www.instagram.com/p/CmYyND_OYMl/?igshid=MDJmNzVkMjY=">INSTAGRAM</a></li>
-          <li><a href=""
-              onclick="window.open('https://www.youtube.com/watch?v=dQw4w9WgXcQ','Trolled','width=600,height=400')">PINTEREST</a>
-          </li>
-          <li><a href="mailto:tuetseltecnic@gmail.com">EMAIL</a></li>
-          <li><a href="https://stackoverflow.com/questions/tagged/html" target="_blank">RSS</a></li>
-        </ul>
-        <p>Web Page Created By: Victor Porras Villa-Real</p>
-      </footer>
+  <header>
+    <div>
+      <img id="logo" src="../img/logo_laputaiaia.png" />
+    </div>
+    <nav id="navbar">
+      <ul>
+        <li><a href="../index.html">INICIO</a></li>
+        <li><a href="#aboutme">SOBRE MÍ</a></li>
+        <li><a href="../receptes_list/recetas.html">RECETAS</a></li>
+        <li><a href="../form/form.html">CONTACTO</a></li>
+        <li><a href="../other/otras cosas.html">OTRAS COSAS</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main class="container center">
+    <div>
+    <form action="" method="get">
+
+      <fieldset>
+
+        <legend>Formulari de la puta iaia</legend>
+
+        <p><label>Nom: <input type="text" name="nombre"></label></p>
+
+        <p><label>Cognom: <input type="text" name="apellidos"></label></p>
+
+        <p><label>Adreça Electronica: <input type="email" name="correu" id="email"></label></p>
+
+        <p><textarea name="comentari" id="comment"></textarea></p>
+
+        <p>
+
+          Idioma:
+      
+          <select name="idioma">
+      
+            <option>Castella</option>
+      
+            <option>Catala</option>
+      
+          </select>
+      
+        </p>
+      </fieldset>
+
+      <p>
+
+        <input type="submit" value="Suscribirse">
+
+        <input type="reset" value="Reset">
+
+      </p>
+      <p id="pd">Que aquesta iaia no utilitza whattsapp</p>
+    </form>
+  </div>
+  </main>
+  <footer id="footerR">
+    <ul>
+      <li><a href="https://www.facebook.com/groups/lagrasa2.1">FACEBOOK</a></li>
+      <li><a href="https://twitter.com/fzz_25/status/1623003074536112128">TWITTER</a></li>
+      <li><a href="https://www.instagram.com/p/CmYyND_OYMl/?igshid=MDJmNzVkMjY=">INSTAGRAM</a></li>
+      <li><a href=""
+          onclick="window.open('https://www.youtube.com/watch?v=dQw4w9WgXcQ','Trolled','width=600,height=400')">PINTEREST</a>
+      </li>
+      <li><a href="mailto:tuetseltecnic@gmail.com">EMAIL</a></li>
+      <li><a href="https://stackoverflow.com/questions/tagged/html" target="_blank">RSS</a></li>
+    </ul>
+    <p>Web Page Created By: Victor Porras Villa-Real</p>
+  </footer>
   <!--<script>
     window.onscroll = function() {myFunction()};
     

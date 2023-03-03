@@ -45,3 +45,7 @@ nav#NavPages li:hover{
     background: url('../recepta/img/ricktato.png');
     
 }
+
+body > main > article > a > div > img {
+    height: 270px;
+}

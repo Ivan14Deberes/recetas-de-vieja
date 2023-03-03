@@ -1,0 +1,38 @@
+body {
+    margin-bottom: 130px;
+    background-image:url(/recepta/img/bg-putes-receptes.jpg);
+    background-size: 100%;
+}
+.container {
+    height: 500px;
+    width:100%;
+    margin: 0;
+}
+.center {
+  display: flex;
+  align-items: center;
+  min-height: 100vh;
+  justify-content: center;
+}
+form {
+    background-color: white;
+    border-radius: 15px;
+    padding: 20px;
+    border: 1px solid black;
+}
+form legend {
+    font-weight: bolder;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+form label {
+    display: flex;
+    justify-content: space-between;
+}
+form p {
+    margin: 5px;
+    padding: 5px;
+}
+form p#pd {
+    color: rgb(141, 141, 141);
+}
