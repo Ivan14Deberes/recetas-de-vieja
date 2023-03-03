@@ -7,9 +7,10 @@
 body {
     margin-bottom: 130px;
     background-image:url(/recepta/img/bg-putes-receptes.jpg);
+    background-size: 100%;
 }
 
-body div {
+body main div {
     width: 85%;
 }
 /*End Body*/
