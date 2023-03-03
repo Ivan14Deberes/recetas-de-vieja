@@ -1,0 +1,42 @@
+div#bottomnav {
+    width: 800px;
+    display: block;
+    flex-wrap: nowrap;
+}
+nav#NavPages{
+    display: grid;
+    justify-content: center;
+}
+nav#NavPages ul{
+    padding-left: 0;
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    background-color: lightgray;
+    border-radius: 25px;
+    /*padding: 0 20px;*/
+}
+nav#NavPages li {
+    display: inline-block;
+    padding: 10px;
+    color: black;
+}
+
+nav#NavPages li:nth-child(2) {
+    background-color: orange;
+}
+nav#NavPages li:hover:nth-child(2) {
+    background-color: orange;
+}
+nav#NavPages li:hover:first-child{
+    border-radius: 25px 0 0 25px;
+    background-color: lightsalmon;
+}
+nav#NavPages li:hover:last-child{
+    border-radius: 0 25px 25px 0;
+    background-color: lightsalmon;
+}
+
+nav#NavPages li:hover{
+    background-color: lightsalmon;
+}

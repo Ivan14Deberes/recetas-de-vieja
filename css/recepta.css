@@ -1,28 +1,59 @@
-#disc {
+#decimal {
     margin-left: 30px;
     list-style: decimal;
 }
+
 /* Start Body*/
 body {
-    margin-bottom: 100px;
+    margin-bottom: 130px;
+    background-image:url(/recepta/img/bg-putes-receptes.jpg);
 }
+
+body div {
+    width: 85%;
+}
+/*End Body*/
+
 /* Start Main */
 body main h1 {
     font-size: 47px;
     font-weight: bold;
     margin: 15px 0px 15px 0px;
+    font-family: 'Mynerve', cursive;
 }
+
 body main ol p {
-    padding-left: 15px;
     padding-top: 15px;
+    font-family: 'Mynerve', cursive;
 }
+
 body main ol li {
     padding-top: 5px;
     padding-bottom: 5px;
+    font-family: 'Mynerve', cursive;
 }
+
 body main p {
-    padding-left: 15px
+    padding-top: 5px;
+    font-family: 'Mynerve', cursive;
 }
-body main img {
+
+#flex {
     padding-bottom: 15px;
+    margin-top: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
+
+body main ul {
+    padding-top: 5px;
+}
+body main b {
+    font-weight: bold;
+}
+
+main {
+    font-size: larger;
+}
+/* End Main*/
