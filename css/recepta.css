@@ -57,3 +57,6 @@ main {
     font-size: larger;
 }
 /* End Main*/
+.animation:hover {
+    cursor: pointer;
+  }

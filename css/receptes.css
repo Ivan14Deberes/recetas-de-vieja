@@ -40,3 +40,8 @@ nav#NavPages li:hover:last-child{
 nav#NavPages li:hover{
     background-color: lightsalmon;
 }
+.animation:hover {
+    cursor: pointer;
+    background: url('../recepta/img/ricktato.png');
+    
+}
