@@ -27,4 +27,76 @@
         <descripcion>A vegades és el temps, a vegades són els virus… Són moltes les causes de les caguetes. </descripcion>
         <imagen>../img/arroz.webp</imagen>
     </receta>
+    <receta>
+        <titulo>La amenaza de la patata al caliu</titulo>
+        <fecha>15 octubre, 2019</fecha>
+        <descripcion>A vegades passa que arriba la tardor i, com que comença a fotre mal temps, et ve aquell puto ANTOJU de donar cosa calentona al body. </descripcion>
+        <imagen>../recepta/img/star.png</imagen>
+    </receta>
+    <receta>
+        <titulo>El ataque de las patatas al caliu</titulo>
+        <fecha>15 octubre, 2019</fecha>
+        <descripcion>A vegades passa que arriba la tardor i, com que comença a fotre mal temps, et ve aquell puto ANTOJU de donar cosa calentona al body. </descripcion>
+        <imagen>../recepta/img/star2.png</imagen>
+    </receta>
+    <receta>
+        <titulo>El retorno de las patatas al caliu</titulo>
+        <fecha>15 octubre, 2019</fecha>
+        <descripcion>A vegades passa que arriba la tardor i, com que comença a fotre mal temps, et ve aquell puto ANTOJU de donar cosa calentona al body. </descripcion>
+        <imagen>../recepta/img/star3.png</imagen>
+    </receta>
+    <receta>
+        <titulo>una nueva patata al caliu</titulo>
+        <fecha>15 octubre, 2019</fecha>
+        <descripcion>A vegades passa que arriba la tardor i, com que comença a fotre mal temps, et ve aquell puto ANTOJU de donar cosa calentona al body. </descripcion>
+        <imagen>../recepta/img/star4.png</imagen>
+    </receta>
+    <receta>
+        <titulo>La patata al caliu contraataca</titulo>
+        <fecha>15 octubre, 2019</fecha>
+        <descripcion>A vegades passa que arriba la tardor i, com que comença a fotre mal temps, et ve aquell puto ANTOJU de donar cosa calentona al body. </descripcion>
+        <imagen>../recepta/img/star5.png</imagen>
+    </receta>
+    <receta>
+        <titulo>El retorno de la patata al caliu</titulo>
+        <fecha>15 octubre, 2019</fecha>
+        <descripcion>A vegades passa que arriba la tardor i, com que comença a fotre mal temps, et ve aquell puto ANTOJU de donar cosa calentona al body. </descripcion>
+        <imagen>../recepta/img/star6.png</imagen>
+    </receta>
+    <receta>
+        <titulo>El despertar de las patatas al caliu</titulo>
+        <fecha>15 octubre, 2019</fecha>
+        <descripcion>A vegades passa que arriba la tardor i, com que comença a fotre mal temps, et ve aquell puto ANTOJU de donar cosa calentona al body. </descripcion>
+        <imagen>../recepta/img/star7.png</imagen>
+    </receta>
+    <receta>
+        <titulo>Las ultimas patatas al caliu</titulo>
+        <fecha>15 octubre, 2019</fecha>
+        <descripcion>A vegades passa que arriba la tardor i, com que comença a fotre mal temps, et ve aquell puto ANTOJU de donar cosa calentona al body. </descripcion>
+        <imagen>../recepta/img/star8.png</imagen>
+    </receta>
+    <receta>
+        <titulo>El ascenso de la patata al caliu</titulo>
+        <fecha>15 octubre, 2019</fecha>
+        <descripcion>A vegades passa que arriba la tardor i, com que comença a fotre mal temps, et ve aquell puto ANTOJU de donar cosa calentona al body. </descripcion>
+        <imagen>../recepta/img/star9.png</imagen>
+    </receta>
+    <receta>
+        <titulo>Patatas a la cheewbaca</titulo>
+        <fecha>15 octubre, 2019</fecha>
+        <descripcion>A vegades passa que arriba la tardor i, com que comença a fotre mal temps, et ve aquell puto ANTOJU de donar cosa calentona al body. </descripcion>
+        <imagen>../recepta/img/star10chew.png</imagen>
+    </receta>
+    <receta>
+        <titulo>Indiana Jones en busca de la patata perdida</titulo>
+        <fecha>15 octubre, 2019</fecha>
+        <descripcion>A vegades passa que arriba la tardor i, com que comença a fotre mal temps, et ve aquell puto ANTOJU de donar cosa calentona al body. </descripcion>
+        <imagen>../recepta/img/indiana.png</imagen>
+    </receta>
+    <receta>
+        <titulo>Never gonna give you POTATOS</titulo>
+        <fecha>15 octubre, 2019</fecha>
+        <descripcion>A vegades passa que arriba la tardor i, com que comença a fotre mal temps, et ve aquell puto ANTOJU de donar cosa calentona al body. </descripcion>
+        <imagen>../recepta/img/ricktato.png</imagen>
+    </receta>
 </recetas>
