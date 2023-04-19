@@ -3,30 +3,28 @@
 <recetas>
     <receta>
         <titulo>Fotre patates al caliu una tarda d'octubre</titulo>
-        <cochinero>Tina Turner</cochinero>
         <fecha>15 octubre, 2019</fecha>
-        <descripcion>Capitol</descripcion>
+        <descripcion>A vegades passa que arriba la tardor i, com que comença a fotre mal temps, et
+            ve aquell puto<span>ANTOJU</span> de donar cosa calentona al body. </descripcion>
         <imagen>../img/patatesalcaliu.webp</imagen>
     </receta>
     <receta>
         <titulo>Eh foca, estaràs content galetes de xocolata</titulo>
-        <cochinero>Luciano Pavarotti</cochinero>
         <fecha>12 maig, 2019</fecha>
-        <descripcion>DECCA</descripcion>
-        <imagen>./Captures%20de%20pantalla/b.png</imagen>
+        <descripcion>Ara hi ha quatre desgraciats que de les galetes amb xocolata en diuen cukis, o
+            cokies o no sé com polles. <span>BAH, TOTS GILIPOLLES</span>.</descripcion>
+        <imagen>../img/galetesxoco.webp</imagen>
     </receta>
     <receta>
         <titulo>Cardem un arròs amb gambes</titulo>
-        <cochinero>Joe Cocker</cochinero>
         <fecha>31 març, 2018</fecha>
-        <descripcion>EMI</descripcion>
-        <imagen>8.20</imagen>
+        <descripcion>L’Indiana Jones es va passar la vida buscant el Sant Grial, quan l’arròs amb gambes és molt més de puta mare</descripcion>
+        <imagen>../img/arroscigala.webp</imagen>
     </receta>
     <receta>
         <titulo>Arròs de quan et vas cagant pels puestos</titulo>
-        <cochinero>Joe Cocker</cochinero>
         <fecha>21 juliol, 2020</fecha>
-        <descripcion>EMI</descripcion>
-        <imagen>8.20</imagen>
+        <descripcion>A vegades és el temps, a vegades són els virus… Són moltes les causes de les caguetes. </descripcion>
+        <imagen>../img/arroz.webp</imagen>
     </receta>
 </recetas>
