@@ -7,7 +7,7 @@
         <descripcion>A vegades passa que arriba la tardor i, com que comença a fotre mal temps, et
             ve aquell puto<span>ANTOJU</span> de donar cosa calentona al body. </descripcion>
         <imagen>../img/patatesalcaliu.webp</imagen>
-        <link>../recepta/recepta.xml#/?recepta=recepta1</link>
+        <link>../recepta/recepta.xml</link>
     </receta>
     <receta>
         <titulo>Eh foca, estaràs content galetes de xocolata</titulo>
