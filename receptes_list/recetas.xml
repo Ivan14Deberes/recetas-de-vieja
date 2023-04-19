@@ -7,6 +7,7 @@
         <descripcion>A vegades passa que arriba la tardor i, com que comença a fotre mal temps, et
             ve aquell puto<span>ANTOJU</span> de donar cosa calentona al body. </descripcion>
         <imagen>../img/patatesalcaliu.webp</imagen>
+        <link>../recepta/recepta1.html</link>
     </receta>
     <receta>
         <titulo>Eh foca, estaràs content galetes de xocolata</titulo>
@@ -14,89 +15,104 @@
         <descripcion>Ara hi ha quatre desgraciats que de les galetes amb xocolata en diuen cukis, o
             cokies o no sé com polles. <span>BAH, TOTS GILIPOLLES</span>.</descripcion>
         <imagen>../img/galetesxoco.webp</imagen>
+        <link>../recepta/recepta13.html</link>
     </receta>
     <receta>
         <titulo>Cardem un arròs amb gambes</titulo>
         <fecha>31 març, 2018</fecha>
         <descripcion>L’Indiana Jones es va passar la vida buscant el Sant Grial, quan l’arròs amb gambes és molt més de puta mare</descripcion>
         <imagen>../img/arroscigala.webp</imagen>
+        <link>../recepta/recepta15.html</link>
     </receta>
     <receta>
         <titulo>Arròs de quan et vas cagant pels puestos</titulo>
         <fecha>21 juliol, 2020</fecha>
         <descripcion>A vegades és el temps, a vegades són els virus… Són moltes les causes de les caguetes. </descripcion>
         <imagen>../img/arroz.webp</imagen>
+        <link>../recepta/recepta14.html</link>
     </receta>
     <receta>
         <titulo>La amenaza de la patata al caliu</titulo>
         <fecha>15 octubre, 2019</fecha>
         <descripcion>A vegades passa que arriba la tardor i, com que comença a fotre mal temps, et ve aquell puto ANTOJU de donar cosa calentona al body. </descripcion>
         <imagen>../recepta/img/star.png</imagen>
+        <link>../recepta/recepta2.html</link>
     </receta>
     <receta>
         <titulo>El ataque de las patatas al caliu</titulo>
         <fecha>15 octubre, 2019</fecha>
         <descripcion>A vegades passa que arriba la tardor i, com que comença a fotre mal temps, et ve aquell puto ANTOJU de donar cosa calentona al body. </descripcion>
         <imagen>../recepta/img/star2.png</imagen>
+        <link>../recepta/recepta3.html</link>
     </receta>
     <receta>
         <titulo>El retorno de las patatas al caliu</titulo>
         <fecha>15 octubre, 2019</fecha>
         <descripcion>A vegades passa que arriba la tardor i, com que comença a fotre mal temps, et ve aquell puto ANTOJU de donar cosa calentona al body. </descripcion>
         <imagen>../recepta/img/star3.png</imagen>
+        <link>../recepta/recepta4.html</link>
     </receta>
     <receta>
         <titulo>una nueva patata al caliu</titulo>
         <fecha>15 octubre, 2019</fecha>
         <descripcion>A vegades passa que arriba la tardor i, com que comença a fotre mal temps, et ve aquell puto ANTOJU de donar cosa calentona al body. </descripcion>
         <imagen>../recepta/img/star4.png</imagen>
+        <link>../recepta/recepta5.html</link>
     </receta>
     <receta>
         <titulo>La patata al caliu contraataca</titulo>
         <fecha>15 octubre, 2019</fecha>
         <descripcion>A vegades passa que arriba la tardor i, com que comença a fotre mal temps, et ve aquell puto ANTOJU de donar cosa calentona al body. </descripcion>
         <imagen>../recepta/img/star5.png</imagen>
+        <link>../recepta/recepta6.html</link>
     </receta>
     <receta>
         <titulo>El retorno de la patata al caliu</titulo>
         <fecha>15 octubre, 2019</fecha>
         <descripcion>A vegades passa que arriba la tardor i, com que comença a fotre mal temps, et ve aquell puto ANTOJU de donar cosa calentona al body. </descripcion>
         <imagen>../recepta/img/star6.png</imagen>
+        <link>../recepta/recepta7.html</link>
     </receta>
     <receta>
         <titulo>El despertar de las patatas al caliu</titulo>
         <fecha>15 octubre, 2019</fecha>
         <descripcion>A vegades passa que arriba la tardor i, com que comença a fotre mal temps, et ve aquell puto ANTOJU de donar cosa calentona al body. </descripcion>
         <imagen>../recepta/img/star7.png</imagen>
+        <link>../recepta/recepta8.html</link>
     </receta>
     <receta>
         <titulo>Las ultimas patatas al caliu</titulo>
         <fecha>15 octubre, 2019</fecha>
         <descripcion>A vegades passa que arriba la tardor i, com que comença a fotre mal temps, et ve aquell puto ANTOJU de donar cosa calentona al body. </descripcion>
         <imagen>../recepta/img/star8.png</imagen>
+        <link>../recepta/recepta9.html</link>
     </receta>
     <receta>
         <titulo>El ascenso de la patata al caliu</titulo>
         <fecha>15 octubre, 2019</fecha>
         <descripcion>A vegades passa que arriba la tardor i, com que comença a fotre mal temps, et ve aquell puto ANTOJU de donar cosa calentona al body. </descripcion>
         <imagen>../recepta/img/star9.png</imagen>
+        <link>../recepta/recepta10.html</link>
     </receta>
     <receta>
         <titulo>Patatas a la cheewbaca</titulo>
         <fecha>15 octubre, 2019</fecha>
         <descripcion>A vegades passa que arriba la tardor i, com que comença a fotre mal temps, et ve aquell puto ANTOJU de donar cosa calentona al body. </descripcion>
         <imagen>../recepta/img/star10chew.png</imagen>
+        <link>../recepta/recepta11.html</link>
     </receta>
     <receta>
         <titulo>Indiana Jones en busca de la patata perdida</titulo>
         <fecha>15 octubre, 2019</fecha>
         <descripcion>A vegades passa que arriba la tardor i, com que comença a fotre mal temps, et ve aquell puto ANTOJU de donar cosa calentona al body. </descripcion>
         <imagen>../recepta/img/indiana.png</imagen>
+        <link>../recepta/recepta12.html</link>
     </receta>
     <receta>
         <titulo>Never gonna give you POTATOS</titulo>
         <fecha>15 octubre, 2019</fecha>
         <descripcion>A vegades passa que arriba la tardor i, com que comença a fotre mal temps, et ve aquell puto ANTOJU de donar cosa calentona al body. </descripcion>
         <imagen>../recepta/img/ricktato.png</imagen>
+        <link>../recepta/recepta16.html</link>
     </receta>
 </recetas>

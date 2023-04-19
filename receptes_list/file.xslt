@@ -36,7 +36,7 @@
                 <main>
                     <article>
                         <xsl:for-each select="recetas/receta">
-                            <a>
+                            <a href="{link}">
                                 <div>
                                     <img src="{imagen}" />
                                     <div>
