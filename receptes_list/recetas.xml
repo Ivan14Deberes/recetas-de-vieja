@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="file.xslt" type="text/xsl"?>
+<recetas>
+    <receta>
+        <titulo>Fotre patates al caliu una tarda d'octubre</titulo>
+        <cochinero>Tina Turner</cochinero>
+        <fecha>15 octubre, 2019</fecha>
+        <descripcion>Capitol</descripcion>
+        <imagen>../img/patatesalcaliu.webp</imagen>
+    </receta>
+    <receta>
+        <titulo>Eh foca, estaràs content galetes de xocolata</titulo>
+        <cochinero>Luciano Pavarotti</cochinero>
+        <fecha>12 maig, 2019</fecha>
+        <descripcion>DECCA</descripcion>
+        <imagen>./Captures%20de%20pantalla/b.png</imagen>
+    </receta>
+    <receta>
+        <titulo>Cardem un arròs amb gambes</titulo>
+        <cochinero>Joe Cocker</cochinero>
+        <fecha>31 març, 2018</fecha>
+        <descripcion>EMI</descripcion>
+        <imagen>8.20</imagen>
+    </receta>
+    <receta>
+        <titulo>Arròs de quan et vas cagant pels puestos</titulo>
+        <cochinero>Joe Cocker</cochinero>
+        <fecha>21 juliol, 2020</fecha>
+        <descripcion>EMI</descripcion>
+        <imagen>8.20</imagen>
+    </receta>
+</recetas>
