@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-    <xsl:template match="/">
+    <xsl:template match="recetas/receta">
         <html>
             <head>
                 <link rel="icon" type="image/jpg" href="../img/favicon.png" />
@@ -43,7 +43,7 @@
                         </p>
                         <ul>
                             <il>
-                                <xsl:value-of select="item1" />
+                                <xsl:value-of select="listaul/item1" />
                             </il>
                         </ul>
                     </div>
@@ -51,7 +51,49 @@
                         <img src="{imagen}" />
                     </div>
                     <div>
-
+                        <ol id="decimal">
+                            <li>
+                                <xsl:value-of select="listaol/item1" />
+                            </li>
+                            <li>
+                                <xsl:value-of select="listaol/item2" />
+                            </li>
+                            <li>
+                                <xsl:value-of select="listaol/item3" />
+                            </li>
+                            <li>
+                                <xsl:value-of select="listaol/item4" />
+                                <p>
+                                    <xsl:value-of select="listaol/item4/it1" />
+                                </p>
+                                <p>
+                                    <xsl:value-of select="listaol/item4/it2" />
+                                </p>
+                                <p>
+                                    <xsl:value-of select="listaol/item4/it3" />
+                                </p>
+                                <p>
+                                    <xsl:value-of select="listaol/item4/it4" />
+                                </p>
+                                <p>
+                                    <xsl:value-of select="listaol/item4/it5" />
+                                </p>
+                                <p>
+                                    <xsl:value-of select="listaol/item4/it6" />
+                                </p>
+                                <p>
+                                    <xsl:value-of select="listaol/item4/it7" />
+                                </p>
+                            </li>
+                            <li>
+                                <xsl:value-of select="listaol/item5" />
+                            </li>
+                        </ol>
+                    </div>
+                    <div>
+                        <p>
+                            <xsl:value-of select="p2" />
+                        </p>
                     </div>
                 </main>
                 <footer id="footerR">
