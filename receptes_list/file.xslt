@@ -3,10 +3,10 @@
     <xsl:template match="/">
         <html>
             <head>
-                <link rel="icon" type="image/jpg" href="../img/favicon.png"/>
-                <link rel="stylesheet" href="../css/reset.css"/>
-                <link rel="stylesheet" href="../css/style.css"/>
-                <link rel="stylesheet" href="../css/receptes.css"/>
+                <link rel="icon" type="image/jpg" href="../img/favicon.png" />
+                <link rel="stylesheet" href="../css/reset.css" />
+                <link rel="stylesheet" href="../css/style.css" />
+                <link rel="stylesheet" href="../css/receptes.css" />
             </head>
             <header>
                 <div>
@@ -33,23 +33,30 @@
                 </nav>
             </header>
             <body>
-                <h2>My receta Collection</h2>
-                <table border="1">
-                    <tr bgcolor="#9areceta32">
-                        <th style="text-align:left">Title</th>
-                        <th style="text-align:left">Artist</th>
-                    </tr>
-                    <xsl:for-each select="recetas/receta">
-                        <tr>
-                            <td>
-                                <xsl:value-of select="titulo" />
-                            </td>
-                            <td>
-                                <img src="{imagen}" />
-                            </td>
-                        </tr>
-                    </xsl:for-each>
-                </table>
+                <main>
+                    <article>
+                        <xsl:for-each select="recetas/receta">
+                            <a>
+                                <div>
+                                    <img src="{imagen}" />
+                                    <div>
+                                        <h3>
+                                            <xsl:value-of select="titulo" />
+                                        </h3>
+                                        <div>
+                                            <sub>
+                                                <xsl:value-of select="fecha" />
+                                            </sub>
+                                        </div>
+                                        <p>
+                                            <xsl:value-of select="descripcion" />
+                                        </p>
+                                    </div>
+                                </div>
+                            </a>
+                        </xsl:for-each>
+                    </article>
+                </main>
             </body>
         </html>
     </xsl:template>
