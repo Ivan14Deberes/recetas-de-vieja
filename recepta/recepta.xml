@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="file.xslt" type="text/xsl"?>
+<recetas>
+    <receta nom="recepta1">
+        <titulo>Fotre patates al caliu una tarda d'octubre</titulo>
+        <descripcion>A vegades passa que arriba la tardor i, com que comença a fotre mal temps, et
+            ve aquell puto<span>ANTOJU</span> de donar cosa calentona al body. </descripcion>
+        <imagen>../img/patatesalcaliu.webp</imagen>
+    </receta>
+</recetas>
