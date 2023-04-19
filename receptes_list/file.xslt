@@ -22,7 +22,7 @@
                                 <a href="#aboutme">SOBRE MÍ</a>
                             </li>
                             <li>
-                                <a href="../receptes_list/recetas.html">RECETAS</a>
+                                <a href="../receptes_list/recetas.xml">RECETAS</a>
                             </li>
                             <li>
                                 <a href="../form/form.html">CONTACTO</a>
