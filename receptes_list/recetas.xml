@@ -5,7 +5,7 @@
         <titulo>Fotre patates al caliu una tarda d'octubre</titulo>
         <fecha>15 octubre, 2019</fecha>
         <descripcion>A vegades passa que arriba la tardor i, com que comença a fotre mal temps, et
-            ve aquell puto <span>ANTOJU</span> de donar cosa calentona al body. </descripcion>
+            ve aquell puto ANTOJU de donar cosa calentona al body. </descripcion>
         <imagen>../img/patatesalcaliu.webp</imagen>
         <link>../recepta/recepta.xml</link>
     </receta>
@@ -13,7 +13,7 @@
         <titulo>Eh foca, estaràs content galetes de xocolata</titulo>
         <fecha>12 maig, 2019</fecha>
         <descripcion>Ara hi ha quatre desgraciats que de les galetes amb xocolata en diuen cukis, o
-            cokies o no sé com polles. <span>BAH, TOTS GILIPOLLES</span>.</descripcion>
+            cokies o no sé com polles. BAH, TOTS GILIPOLLES.</descripcion>
         <imagen>../img/galetesxoco.webp</imagen>
         <link>../recepta/recepta13.html</link>
     </receta>
